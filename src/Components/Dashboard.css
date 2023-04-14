@@ -1,0 +1,12 @@
+.dashboard-container {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  color: aliceblue;
+}
+h1{
+    font-size: 45px;
+}
